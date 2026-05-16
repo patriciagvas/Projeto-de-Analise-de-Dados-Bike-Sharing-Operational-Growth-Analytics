@@ -51,7 +51,7 @@ Este projeto tem como objetivo analisar o comportamento dos usuários, a eficiê
 
 **3.Perfil dos Power Users (O Top 1%):**
 
-* A maioria dos Top usuários do serviço são do tipo Commuters, ou seja, que fazem em média 8km por viagem, comprovando que os clientes que mais recorrentes da plataforma utilizam as biciletas como condução diária e não para lazer.
+* A maioria dos Top usuários do serviço são do tipo Commuters, ou seja, que fazem em média 8km por viagem, comprovando que os clientes  mais recorrentes da plataforma utilizam as biciletas como condução diária e não para lazer.
 * Além disso, o tempo de atividade média dos usuários é de 160 dias, demonstrando que há um ciclo de relacionamento de aproximadamente 5 meses.
 * Com base nesses inisghts, recomeda-se criar planos de assinatura focados em benefícios de mobilidade urbana diária para os Power users, como, por exemplo, descontos corporativos a fim de aumentar o tempo de retenção e satisfação dos clientes. 
 
